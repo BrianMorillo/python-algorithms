@@ -3,6 +3,7 @@
 @author: Brian Morillo
 
 Randomized Quick Sort approach
+Time Complexity: O(nlogn)
 """
 import random
     
