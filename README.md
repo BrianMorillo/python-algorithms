@@ -15,3 +15,10 @@ Run Visualization
 ```sh
 python quicksort_visualizer.py
 ```
+
+## Sorting Runtime Visualizer
+Display runtimes for sorting algorithms
+```sh
+python sorting_runtime_visualizer.py
+```
+![algorithm_runtimes](https://github.com/BrianMorillo/python-algorithms/blob/main/algorithm_runtimes.png?raw=true)
